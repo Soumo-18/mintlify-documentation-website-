@@ -3,6 +3,19 @@
 A pixel-perfect recreation of the [Mintlify](https://mintlify.com/) landing page, built using pure HTML and CSS. This project focuses on structure, layout accuracy, and clean design implementation without the use of frameworks or JavaScript.
 
 **Original Design Reference:** [Mintlify Brand Assets](https://brandfetch.com/mintlify.com)
+🔗 Live Demo
+**[View the Live Project Here](https://mintlify-docs.netlify.app/)**
+
+
+## 📸 Screenshots
+
+*(Add screenshots of your final webpage here to show the output)*
+![Landing Page](/assets/Screenshot%20(249).png)
+![Hero Section](/assets/Screenshot%20(250).png)
+![Customers Section](/assets/Screenshot%20(253).png)
+![Customer Stories](/assets/Screenshot%20(252).png)
+![Customer Stories](/assets/Screenshot%20(254).png)
+
 
 ## 🚀 How to Open Locally
 
@@ -61,14 +74,7 @@ The project uses CSS variables for consistent branding:
 | **Dark Green** | `#1d4c56` | Dark mode accents |
 | **Card Bg** | `#f9fafb` | Feature and Enterprise cards |
 
-## 📸 Screenshots
 
-*(Add screenshots of your final webpage here to show the output)*
-![Landing Page](/assets/Screenshot%20(249).png)
-![Hero Section](/assets/Screenshot%20(250).png)
-![Customers Section](/assets/Screenshot%20(253).png)
-![Customer Stories](/assets/Screenshot%20(252).png)
-![Customer Stories](/assets/Screenshot%20(254).png)
 
 ## 📜 Constraints Checklist
 
